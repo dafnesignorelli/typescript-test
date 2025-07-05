@@ -1,0 +1,23 @@
+{
+  "name": "typescript-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest",
+    "test:number": "vitest tests/number-problem.test.ts",
+    "test:object": "vitest tests/object-params.test.ts",
+    "test:optional": "vitest tests/optional-props.test.ts",
+    "test:optionalParams": "vitest tests/optional-params.test.ts",
+    "test:assigning": "vitest tests/assigning-types.test.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.11.0",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3",
+    "vitest": "^3.2.4"
+  }
+}
