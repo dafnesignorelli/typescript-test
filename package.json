@@ -9,7 +9,12 @@
     "test:object": "vitest tests/object-params.test.ts",
     "test:optional": "vitest tests/optional-props.test.ts",
     "test:optionalParams": "vitest tests/optional-params.test.ts",
-    "test:assigning": "vitest tests/assigning-types.test.ts"
+    "test:assigning": "vitest tests/assigning-types.test.ts",
+    "test:return": "vitest tests/return.test.ts",
+    "test:set": "vitest tests/set-problem.test.ts",
+    "test:record": "vitest tests/record-problem.test.ts",
+    "test:narrowing": "vitest tests/narrowing.test.ts",
+    "test:catchBlocks": "vitest tests/catchBlocks.test.ts"
   },
   "keywords": [],
   "author": "",
