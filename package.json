@@ -15,7 +15,8 @@
     "test:record": "vitest tests/record-problem.test.ts",
     "test:narrowing": "vitest tests/narrowing.test.ts",
     "test:catchBlocks": "vitest tests/catchBlocks.test.ts",
-    "test:functionType": "vitest tests/functionType.test.ts"
+    "test:functionType": "vitest tests/functionType.test.ts",
+    "test:inferenceType": "vitest tests/inferenceType.test.ts"
   },
   "keywords": [],
   "author": "",
