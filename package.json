@@ -22,7 +22,8 @@
     "test:receiving-args": "vitest tests/receiving-args.test.ts",
     "test:getters": "vitest tests/getters.test.ts",
     "test:public&private": "vitest tests/public&private.test.ts",
-    "test:setter": "vitest tests/setter.test.ts"
+    "test:setter": "vitest tests/setter.test.ts",
+    "test:extending": "vitest tests/extending.test.ts"
   },
   "keywords": [],
   "author": "",
