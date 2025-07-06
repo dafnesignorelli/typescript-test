@@ -21,7 +21,8 @@
     "test:classesFunction": "vitest tests/classesFunction.test.ts",
     "test:receiving-args": "vitest tests/receiving-args.test.ts",
     "test:getters": "vitest tests/getters.test.ts",
-    "test:public&private": "vitest tests/public&private.test.ts"
+    "test:public&private": "vitest tests/public&private.test.ts",
+    "test:setter": "vitest tests/setter.test.ts"
   },
   "keywords": [],
   "author": "",
