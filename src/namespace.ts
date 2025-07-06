@@ -1,3 +1,8 @@
+export interface Rectangle {
+    width: number;
+    height: number;
+  }
+
 namespace GeometryUtils {
   export namespace Circle {
     export function calculateArea(radius: number) {
