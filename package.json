@@ -19,7 +19,8 @@
     "test:inferenceType": "vitest tests/inferenceType.test.ts",
     "test:understand": "vitest tests/understand.test.ts",
     "test:classesFunction": "vitest tests/classesFunction.test.ts",
-    "test:receiving-args": "vitest tests/receiving-args.test.ts"
+    "test:receiving-args": "vitest tests/receiving-args.test.ts",
+    "test:getters": "vitest tests/getters.test.ts"
   },
   "keywords": [],
   "author": "",
