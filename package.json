@@ -16,7 +16,9 @@
     "test:narrowing": "vitest tests/narrowing.test.ts",
     "test:catchBlocks": "vitest tests/catchBlocks.test.ts",
     "test:functionType": "vitest tests/functionType.test.ts",
-    "test:inferenceType": "vitest tests/inferenceType.test.ts"
+    "test:inferenceType": "vitest tests/inferenceType.test.ts",
+    "test:understand": "vitest tests/understand.test.ts",
+    "test:classesFunction": "vitest tests/classesFunction.test.ts"
   },
   "keywords": [],
   "author": "",
@@ -26,5 +28,8 @@
     "ts-node": "^10.9.2",
     "typescript": "^5.8.3",
     "vitest": "^3.2.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0"
   }
 }
