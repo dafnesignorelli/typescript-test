@@ -24,7 +24,8 @@
     "test:public&private": "vitest tests/public&private.test.ts",
     "test:setter": "vitest tests/setter.test.ts",
     "test:extending": "vitest tests/extending.test.ts",
-    "test:enums": "vitest tests/enums.test.ts"
+    "test:enums": "vitest tests/enums.test.ts",
+    "test:stringEnums": "vitest tests/stringEnums.test.ts"
   },
   "keywords": [],
   "author": "",
