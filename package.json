@@ -25,7 +25,8 @@
     "test:setter": "vitest tests/setter.test.ts",
     "test:extending": "vitest tests/extending.test.ts",
     "test:enums": "vitest tests/enums.test.ts",
-    "test:stringEnums": "vitest tests/stringEnums.test.ts"
+    "test:stringEnums": "vitest tests/stringEnums.test.ts",
+    "test:derivingTypes": "vitest tests/derivingTypes.test.ts"
   },
   "keywords": [],
   "author": "",
